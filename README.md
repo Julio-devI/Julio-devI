@@ -28,7 +28,7 @@ me chamo júlio e adoro programação, sou fullstack, porém minha paixão mesmo
 - HTML
 - CSS
 - WordPress
-- PHP
+- PHP | Laravel
 - MySQL
 
 
