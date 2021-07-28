@@ -5,7 +5,7 @@ me chamo júlio e adoro programação, sou fullstack, porém minha paixão mesmo
 
 ## Visão geral rápida - Quick overview
 
-## 📈 Estado do GitHub - Github Stats
+## 📈 Status do GitHub - Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Julio-devI&show_icons=true&count_private=true&theme=midnight-purple" alt="Julio Alves" />
 
