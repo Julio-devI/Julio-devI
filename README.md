@@ -1,6 +1,6 @@
-# Oi pessoal - Hi everyone :wave:
+# Hi everyone :wave:
 
-me chamo júlio e adoro programação, sou fullstack, porém minha paixão mesmo são projetos back-end, não sei de tudo, mas de uma coisa eu sei, eu posso procurar a solução para seus problemas - My name is Julio and i love programming I'm fullstack but my passion is back-end projects i don't know everything but i know one thing i can look for the solution to your problems
+My name is Julio and i love programming I'm fullstack but my passion is back-end projects i don't know everything but i know one thing i can look for the solution to your problems
 
 
 ## Visão geral rápida - Quick overview
