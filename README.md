@@ -20,7 +20,7 @@ My name is Julio and i love programming I'm fullstack but my passion is back-end
 </p>
 <details>
 <summary>
-	Mais coisas sobre mim - More stuff about me
+	More stuff about me
 </summary>
 
 ## My skills 📜
