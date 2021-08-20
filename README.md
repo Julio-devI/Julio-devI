@@ -32,8 +32,9 @@ My name is Julio and i love programming I'm fullstack but my passion is back-end
 - MySQL
 - node js
 
-## O que eu estou aprendendo - What I'm currently learning 📚
+## What I'm currently learning 📚
 
+- React
 - javascript
 - ajax
 - bootstrap
