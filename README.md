@@ -1,42 +1,25 @@
-# Hi everyone :wave:
-
-My name is Julio and i love programming I'm fullstack but my passion is back-end projects i don't know everything but i know one thing i can look for the solution to your problems
-
-
-## Quick overview
-
-## 📈 Github Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Julio-devI&show_icons=true&count_private=true&theme=midnight-purple" alt="Julio Alves" />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-devI&layout=compact&theme=midnight-purple" alt="Julio Alves" />
-
-## My contribution streak 🔥 
-
-<p align="center">
-  <a href="https://github.com/Julio-devI/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julio-devI&theme=midnight-purple#version3" alt="Julio-devI's streak stats"/>
-  </a>
-</p>
-<details>
-<summary>
-	More stuff about me
-</summary>
-
-## My skills 📜
-
-- HTML
-- CSS
-- WordPress
-- PHP | Laravel
-- MySQL
-- node js
-
-## What I'm currently learning 📚
-
-- React
-- javascript
-- ajax
-- bootstrap
-
-</details>
+## Hi everyone my name's Julio i'm backend developer and web artisan passionate for laravel and play with nodejs
+<div align="center">
+  <a href="https://github.com/Julio-devI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-devI&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-devI&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+<div style="display: inline_block "><br>
+  <img align="center" alt="Julio-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Julio-React" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Julio-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Julio-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Julio-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Julio-PHP" height="60" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/julin_alves77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "julio.a.valenca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/júlio-alves-de-almeida-valença/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
