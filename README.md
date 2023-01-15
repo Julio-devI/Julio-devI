@@ -1,4 +1,3 @@
-## 😊😊Hi everyone my name's Julio i'm backend developer and web artisan passionate for laravel and play with nodejs
 <div align="center">
   <a href="https://github.com/Julio-devI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-devI&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
