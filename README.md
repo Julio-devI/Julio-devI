@@ -1,7 +1,5 @@
 ### Hi there 👋, Hi my name is Julio
 #### I am Fullstack Developer
-![I am Fullstack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I started studying programming on my own and today I can delve into this vast world of technology
 
 Skills: HTML | CSS | BOOTSTRAP | PHP | LARAVEL | DOCKER | MYSQL | WORDPRESS
