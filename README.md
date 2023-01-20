@@ -12,11 +12,7 @@ I started studying programming on my own and today I can delve into this vast wo
  <img align="center" alt="Julio-sql" height="60" width="50" src="https://user-images.githubusercontent.com/72801350/213783918-6dccab92-59f7-4c55-a59d-192750c553df.png">
 </span>
 
-<span> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-devI)](https://github.com/anuraghazra/github-readme-stats)
-
-</span> 
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Julio-devI)](https://github.com/ryo-ma/github-profile-trophy)
 
