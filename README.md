@@ -7,14 +7,16 @@ I started studying programming on my own and today I can delve into this vast wo
  <img align="center" alt="Julio-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Julio-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Julio-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Julio-python" height="60" width="50" src="https://user-images.githubusercontent.com/72801350/213796528-d4c2c07e-217b-4903-bc41-b30f5a862134.png">
  <img align="center" alt="Julio-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  <img align="center" alt="Julio-laravel" height="60" width="50" src="https://user-images.githubusercontent.com/72801350/213750046-f1a9e75e-d1bb-403d-afc3-c4feac4bb984.png">
  <img align="center" alt="Julio-sql" height="60" width="50" src="https://user-images.githubusercontent.com/72801350/213783918-6dccab92-59f7-4c55-a59d-192750c553df.png">
 </span>
 
-<div>
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-devI)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-devi)](https://github.com/Julio-devI/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Julio-devI)](https://github.com/ryo-ma/github-profile-trophy)
 
