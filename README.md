@@ -13,6 +13,7 @@ I started studying programming on my own and today I can delve into this vast wo
 </span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-devI)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-devI)](https://github.com/anuraghazra/github-readme-stats)
 <span>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-devI&show_icons=true) </span> 
 
 
