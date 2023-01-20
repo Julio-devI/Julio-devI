@@ -1,4 +1,4 @@
-### Hi there 👋, Hi my name is Julio
+### Hi there 👋, my name is Julio
 #### I am Fullstack Developer
 I started studying programming on my own and today I can delve into this vast world of technology
 
