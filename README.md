@@ -2,11 +2,13 @@
 #### I am Fullstack Developer
 I started studying programming on my own and today I can delve into this vast world of technology
 
+<span>
  <img align="center" alt="Julio-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Julio-React" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Julio-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Julio-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Julio-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</span>
 
 Skills: HTML | CSS | BOOTSTRAP | PHP | LARAVEL | DOCKER | MYSQL | WORDPRESS
 
