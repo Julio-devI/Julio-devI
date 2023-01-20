@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/Julio-devI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-devI&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-devI&layout=compact&langs_count=7&theme=synthwave"/>
+  ### Hi there 👋, Hi my name is Julio
+  #### I am Fullstack Developer
+  ![I am Fullstack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 </div>
   <h1>📚Skills</h1>
 <div style="display: inline_block "><br>
