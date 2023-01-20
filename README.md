@@ -1,23 +1,19 @@
-<div align="center">
-  ### Hi there 👋, Hi my name is Julio
-  #### I am Fullstack Developer
-  ![I am Fullstack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-</div>
-  <h1>📚Skills</h1>
-<div style="display: inline_block "><br>
-  <img align="center" alt="Julio-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julio-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Julio-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Julio-PHP" height="60" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
-  <img align="center" alt="Julio-PHP" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Julio-PHP" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/julin_alves77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "julio.a.valenca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/júlio-alves-de-almeida-valença/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Hi there 👋, Hi my name is Julio
+#### I am Fullstack Developer
+![I am Fullstack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I started studying programming on my own and today I can delve into this vast world of technology
+
+Skills: HTML | CSS | BOOTSTRAP | PHP | LARAVEL | DOCKER | MYSQL | WORDPRESS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Julio-devI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/j%C3%BAlio-alves-de-almeida-valen%C3%A7a//)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Julio-devI)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-devI)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Julio-devI&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Julio-devI)  
