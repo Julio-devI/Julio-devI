@@ -8,7 +8,7 @@ I started studying programming on my own and today I can delve into this vast wo
  <img align="center" alt="Julio-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Julio-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Julio-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="Julio-laravel" height="60" width="50" src="![image](https://user-images.githubusercontent.com/72801350/213749738-2e12d1cf-2005-4a22-8026-d2256701657d.png)">
+ <img align="center" alt="Julio-laravel" height="60" width="50" src="https://user-images.githubusercontent.com/72801350/213749738-2e12d1cf-2005-4a22-8026-d2256701657d.png">
 </span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-devI)](https://github.com/anuraghazra/github-readme-stats)
