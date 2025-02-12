@@ -22,6 +22,7 @@ I started my studies in high school looking at languages ​​like Pascal, Java
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Blade](https://img.shields.io/badge/Blade-222?style=for-the-badge&logo=laravel&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </span>
 
