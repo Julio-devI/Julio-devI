@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Julio
 
-I started my studies in high school looking at languages ​​like Pascal, Java and PHP and over the years I got into software engineering and developed several practical and dynamic projects with livewire, javascript, blade and developed parallel projects with nodeJs
+I am a Software Engineering with a strong foundation in programming logic and system development. With over two years of practical experience, I specialize in PHP development, focusing primarily on Laravel. My background in computer engineering equips me with a technical rigor that I combine with a product-oriented approach to create robust, scalable backend solutions. I have hands-on experience building systems that enhance functionality and user experience. If you need a developer who can bridge the gap between technical execution and product vision, I am ready to discuss how I can contribute to your project and help bring your ideas to fruition.
 
 ### Skills: 
 <span>
